@@ -130,7 +130,9 @@ Built during my Lexon IT internship and live at **[autohiru.com](https://autohir
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanteja09&bg_color=0f172a&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true&title_color=ffffff" alt="Contribution graph" width="100%" />
+<a href="https://github.com/rohanteja09"><img src="https://ghchart.rshah.org/2563eb/rohanteja09" alt="rohanteja09 GitHub contribution calendar" width="100%" /></a>
+
+<sub>Contributions over the past year</sub>
 
 </div>
 
