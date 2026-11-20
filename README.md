@@ -126,19 +126,6 @@ Built during my Lexon IT internship and live at **[autohiru.com](https://autohir
 
 <br/>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohanteja09&show_icons=true&hide_border=true&bg_color=0b1020&title_color=84cc16&icon_color=84cc16&text_color=e5e7eb&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanteja09&layout=compact&hide_border=true&bg_color=0b1020&title_color=84cc16&text_color=e5e7eb" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=rohanteja09&hide_border=true&background=0b1020&ring=84cc16&fire=84cc16&currStreakLabel=84cc16&currStreakNum=e5e7eb&sideNums=e5e7eb&sideLabels=9ca3af&dates=9ca3af" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 **Open to full-time software engineering roles.** · [rohan.nallapaneni@gmail.com](mailto:rohan.nallapaneni@gmail.com)
