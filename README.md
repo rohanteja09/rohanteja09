@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1020,60:14301f,100:84cc16&text=Rohan%20Teja%20Nallapaneni&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="Rohan Teja Nallapaneni" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,60:1e3a8a,100:38bdf8&text=Rohan%20Teja%20Nallapaneni&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="Rohan Teja Nallapaneni" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=84CC16&center=true&vCenter=true&width=640&lines=Shipping+products+from+first+commit+to+production;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Next.js;Software+Engineering+Intern+%40+Lexon+IT+(completed)" alt="Typing intro" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Shipping+products+from+first+commit+to+production;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Next.js;Software+Engineering+Intern+%40+Lexon+IT+(completed)" alt="Typing intro" /></a>
 
 <br/>
 
-<a href="https://autohiru.com"><img src="https://img.shields.io/badge/AutoHirU-Live-84cc16?style=for-the-badge&logo=googlechrome&logoColor=black" alt="AutoHirU" /></a>
-<a href="https://rohanteja09.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=84cc16" alt="Portfolio" /></a>
+<a href="https://autohiru.com"><img src="https://img.shields.io/badge/AutoHirU-Live-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="AutoHirU" /></a>
+<a href="https://rohanteja09.github.io"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=githubpages&logoColor=38bdf8" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/rohan-teja-nallapaneni-a683ba285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rohan.nallapaneni@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -126,10 +126,20 @@ Built during my Lexon IT internship and live at **[autohiru.com](https://autohir
 
 <br/>
 
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanteja09&bg_color=0f172a&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true&title_color=ffffff" alt="Contribution graph" width="100%" />
+
+</div>
+
+<br/>
+
 <div align="center">
 
 **Open to full-time software engineering roles.** · [rohan.nallapaneni@gmail.com](mailto:rohan.nallapaneni@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:84cc16,60:14301f,100:0b1020&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:38bdf8,60:1e3a8a,100:0f172a&section=footer" width="100%" alt="" />
 
 </div>
