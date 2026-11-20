@@ -130,7 +130,7 @@ Built during my Lexon IT internship and live at **[autohiru.com](https://autohir
 
 <div align="center">
 
-<a href="https://github.com/rohanteja09"><img src="assets/contributions.svg" alt="rohanteja09 GitHub contribution calendar" width="100%" /></a>
+<a href="https://github.com/rohanteja09"><img src="assets/contributions.svg" alt="rohanteja09 GitHub contribution calendar" width="640" /></a>
 
 </div>
 
